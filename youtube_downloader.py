@@ -8,7 +8,7 @@ from telegram.ext import (
     ContextTypes, filters, ConversationHandler
 )
 
-TOKEN = "8143416167:AAHDdruKVUgmfzTkDefwKQTa1OLVfUqI-OM"
+TOKEN = "BOT TOKEN"
 
 ASK_QUALITY, ASK_THUMB = range(2)
 user_links = {}
